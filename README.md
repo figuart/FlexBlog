@@ -1,2 +1,0 @@
-# FlexBlog
-Created with CodeSandbox
