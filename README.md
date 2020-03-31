@@ -1,6 +1,6 @@
 # FlexBox Testing
 
-In this project I testing the FlexBox
+Study of FlexBox
 
 ##
 
